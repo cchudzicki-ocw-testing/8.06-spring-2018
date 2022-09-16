@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-06-quantum-physics-iii-spring-2018/cf1552ef4f9c5c21a5615378a33bd428_pBvHt3Nea6Q.vtt
+file: /media/courses/8-06-quantum-physics-iii-spring-2018/cf1552ef4f9c5c21a5615378a33bd428_pBvHt3Nea6Q.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

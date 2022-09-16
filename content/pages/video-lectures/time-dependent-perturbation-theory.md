@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This is the second part of the video lectures.
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
@@ -356,7 +357,7 @@ L16.5
 L17.1
 {{< tdclose >}}
 {{< tdopen >}}
-[L17.1 Configuration space for Hamiltonians]({{< baseurl >}}/resources/l17-1) (15:27)
+{{% resource_link "2842d522-0e79-8482-e601-350e5aff97a8" "L17.1 Configuration space for Hamiltonians" %}} (15:27)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -407,7 +408,7 @@ L18.1
 L18.2
 {{< tdclose >}}
 {{< tdopen >}}
-[L18.2 Effective nuclear Hamiltonian. Electronic Berry connection]({{< baseurl >}}/resources/l18-2) (20:02)
+{{% resource_link "5f6a7ec1-92e4-2948-990a-876ee22c712f" "L18.2 Effective nuclear Hamiltonian. Electronic Berry connection" %}} (20:02)
 {{< tdclose >}}
 
 {{< trclose >}}

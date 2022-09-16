@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This is the third part of the video lectures.
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection

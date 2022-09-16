@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-06-quantum-physics-iii-spring-2018/374864b8dba733a6d0e1b1abc06d5bc4_FXRRP-PB4Bk.pdf
+file: /media/courses/8-06-quantum-physics-iii-spring-2018/374864b8dba733a6d0e1b1abc06d5bc4_FXRRP-PB4Bk.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

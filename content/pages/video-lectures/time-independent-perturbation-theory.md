@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This is the first part of the video lectures.
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
@@ -43,7 +44,7 @@ L1.1
 L1.2
 {{< tdclose >}}
 {{< tdopen >}}
-﻿[L1.2 Setting up the perturbative equations]({{< baseurl >}}/resources/l1-2) (16:07)
+﻿{{% resource_link "b5d1770a-3998-dcb2-5f4b-a6455c027e14" "L1.2 Setting up the perturbative equations" %}} (16:07)
 {{< tdclose >}}
 
 {{< trclose >}}

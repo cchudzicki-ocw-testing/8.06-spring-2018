@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes a complete set of video lectures for the course.
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
